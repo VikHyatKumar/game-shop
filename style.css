@@ -1,0 +1,132 @@
+body {
+    background-image: url(./assets/12120251_118Z_2012.w015.n001.319B.p15.319.jpg);
+    background-size: contain;
+}
+.headings {
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #B0DAFF;
+    
+}
+.container {
+    display: grid;
+    border: 2px solid black
+    
+}
+.container .headings {
+    height: 50px;
+    align-items: center;
+}
+.items {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    z-index: 1;
+}
+.box1 {
+    border:2px solid black;
+    height: 350px;
+    width: 350px;
+   margin-top: 5px;
+   border-radius: 20px;
+   
+}
+.box2 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.box3 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.box4 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.box5 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+    
+}
+.box6 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+    
+}
+.box7 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+    
+}
+.box8 {
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 20px;
+    
+}
+
+body {
+    position: relative;
+    z-index: 1;
+}
+#g1 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g2 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g3 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g4 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g5 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g6 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g7 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+#g8 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
